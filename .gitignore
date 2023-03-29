@@ -1,0 +1,7 @@
+# 项目排除路径
+/api-gateway/target/
+/eureka-client/target/
+/eureka-server/target/
+/feign-service/target/
+/ribbon-service/target/
+/user-service/target/
